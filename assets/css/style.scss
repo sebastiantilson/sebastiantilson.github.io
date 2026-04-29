@@ -5,3 +5,11 @@
 .page-header { display: none; }
 .main-content { padding-top: 2rem; }
 
+/* hide the automatic site-title link added by GitHub Pages/Jekyll */
+header.site .site-title,
+header.site a.site-title,
+header.site a[href*="sebastiantilson"],
+.site-header .site-title {
+  display: none !important;
+}
+

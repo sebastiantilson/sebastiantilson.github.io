@@ -279,10 +279,7 @@
             <span class="date">August 2023</span>
           </li>
         </ul>
-      </section>
 
-      <section id="press">
-        <h2>Selected Press</h2>
         <ul class="press">
           <li>
             <span class="outlet">Wall Street Journal</span>

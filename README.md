@@ -210,7 +210,7 @@
       <nav class="site" aria-label="Section navigation">
         <a href="#bio">Biography</a>
         <a href="#research">Research</a>
-        <a href="#press">In the news</a>
+        <a href="#press">Selected Press</a>
         <a href="#contact">Contact</a>
       </nav>
     </header>
@@ -267,7 +267,7 @@
       </section>
 
       <section id="press">
-        <h2>In the News</h2>
+        <h2>Selected Press</h2>
         <ul class="press">
           <li>
             <span class="outlet">The Economist</span>
@@ -280,6 +280,16 @@
           </li>
         </ul>
       </section>
+
+      <li>
+  <span class="outlet">Bloomberg</span>
+  <a class="headline"
+     href="https://www.bloomberg.com/news/articles/2025-08-20/fed-found-over-22-000-mortgages-like-those-pulte-is-now-flagging"
+     target="_blank" rel="noopener">
+    Fed Found Over 22,000 Mortgages Like Those Pulte Is Now Flagging
+  </a>
+  <span class="date">August 2025</span>
+</li>
 
       <section id="contact">
         <h2>Contact</h2>

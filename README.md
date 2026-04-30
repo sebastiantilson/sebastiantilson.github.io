@@ -270,7 +270,7 @@
              href="https://www.philadelphiafed.org/consumer-finance/mortgage-markets/from-deceit-to-default-dishonest-borrowers-and-their-effect-on-mortgage-markets">
             From Deceit to Default: Dishonest Borrowers and Their Effect on Mortgage Markets
           </a>
-          <span class="meta">Elul, Payne, and Tilson &middot; <em>Federal Reserve Bank of Philadelphia Working PAper Series</em>, 2023</span>
+          <span class="meta">Elul, Payne, and Tilson &middot; <em>Federal Reserve Bank of Philadelphia Working Paper Series</em>, 2023</span>
         </div>
         
       </section>

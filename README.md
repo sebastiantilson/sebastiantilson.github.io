@@ -286,7 +286,7 @@
             <a class="headline"
                href="https://wsj.com/economy/housing/mortgage-occupancy-fraud-law-3894c80c"
                target="_blank" rel="noopener">
-              Can a Person Ever Legally HAve Mortages for More Than One Primary Residence?
+              Can a Person Ever Legally Have Mortages for More Than One Primary Residence?
             </a>
             <span class="date">August 2025</span>
           </li>

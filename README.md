@@ -295,13 +295,22 @@
             <a class="headline"
                href="https://wsj.com/economy/housing/mortgage-occupancy-fraud-law-3894c80c"
                target="_blank" rel="noopener">
-              Can a Person Ever Legally Have Mortages for More Than One Primary Residence?
+              Can A Person Ever Legally Have Mortages For More Than One Primary Residence?
             </a>
             <span class="date">August 2025</span>
           </li>
         </ul>
-        
 
+          <ul class="press">
+          <li>
+            <span class="outlet">Bloomberg</span>
+            <a class="headline"
+               href="https://www.bloomberg.com/news/articles/2025-08-20/fed-found-over-22-000-mortgages-like-those-pulte-is-now-flagging">
+              Fed Found Over 22,000 Mortgages Like Those Pulte Is Flagging
+            </a>
+            <span class="date">August 2025</span>
+          </li>
+        </ul>
         
       </section>
 

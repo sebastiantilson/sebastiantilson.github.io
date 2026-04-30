@@ -220,7 +220,7 @@
         <h2>Biography</h2>
         <p>
           Sebastian Tilson is an AI product manager whose research on U.S. mortgage markets has been
-          cited by <em>The Economist</em>, <em>Wall Street Journal</em>, <em>Bloomberg</em>, <em>Reuters</em>, and <em>CNN</em>,
+          cited by <em>The Economist</em>, <em>The Wall Street Journal</em>, <em>Bloomberg</em>, <em>Reuters</em>, and <em>CNN</em>,
           among others. His paper <em>Owner-Occupancy Fraud and Mortgage Performance</em>,
           co-authored with Ronel Elul and Aaron Payne, was published in <em>Real Estate Economics</em>
           in 2023 and grew out of his work at the Federal Reserve Bank of Philadelphia.
@@ -264,6 +264,15 @@
           </a>
           <span class="meta">Elul, Payne, and Tilson &middot; <em>Real Estate Economics</em>, 2023</span>
         </div>
+
+        <div class="paper">
+          <a class="title"
+             href="https://www.philadelphiafed.org/consumer-finance/mortgage-markets/from-deceit-to-default-dishonest-borrowers-and-their-effect-on-mortgage-markets">
+            From Deceit to Default: Dishonest Borrowers and Their Effect on Mortgage Markets
+          </a>
+          <span class="meta">Elul, Payne, and Tilson &middot; <em>Federal Reserve Bank of Philadelphia Working PAper Series</em>, 2023</span>
+        </div>
+        
       </section>
 
       <section id="press">
@@ -282,7 +291,7 @@
 
         <ul class="press">
           <li>
-            <span class="outlet">Wall Street Journal</span>
+            <span class="outlet">The Wall Street Journal</span>
             <a class="headline"
                href="https://wsj.com/economy/housing/mortgage-occupancy-fraud-law-3894c80c"
                target="_blank" rel="noopener">
@@ -291,6 +300,9 @@
             <span class="date">August 2025</span>
           </li>
         </ul>
+        
+
+        
       </section>
 
       <section id="contact">

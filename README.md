@@ -281,20 +281,25 @@
         </ul>
       </section>
 
-      <li>
-  <span class="outlet">Bloomberg</span>
-  <a class="headline"
-     href="https://www.bloomberg.com/news/articles/2025-08-20/fed-found-over-22-000-mortgages-like-those-pulte-is-now-flagging"
-     target="_blank" rel="noopener">
-    Fed Found Over 22,000 Mortgages Like Those Pulte Is Now Flagging
-  </a>
-  <span class="date">August 2025</span>
-</li>
+      <section id="press">
+        <h2>Selected Press</h2>
+        <ul class="press">
+          <li>
+            <span class="outlet">Wall Street Journal</span>
+            <a class="headline"
+               href="https://wsj.com/economy/housing/mortgage-occupancy-fraud-law-3894c80c"
+               target="_blank" rel="noopener">
+              Can a Person Ever Legally HAve Mortages for More Than One Primary Residence?
+            </a>
+            <span class="date">August 2025</span>
+          </li>
+        </ul>
+      </section>
 
       <section id="contact">
         <h2>Contact</h2>
         <p class="contact-block">
-          For media inquiries, speaking requests, or research questions, email
+          For media inquiries or research questions, email
           <a href="mailto:Sebastian.Tilson@gmail.com">Sebastian.Tilson@gmail.com</a>.
         </p>
       </section>

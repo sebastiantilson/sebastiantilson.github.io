@@ -325,9 +325,9 @@
 
     <footer class="site">
       &copy; <span id="year"></span> Sebastian Tilson
-      Views expressed here are my own and do not necessarily reflect those of
+      <p> Views expressed here are my own and do not necessarily reflect those of
     any current or former employer, including the Federal Reserve Bank of
-    Philadelphia or the Federal Reserve System.
+    Philadelphia or the Federal Reserve System.</p>
     </footer>
   </div>
 

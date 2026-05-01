@@ -325,21 +325,15 @@
 
     <footer class="site">
       &copy; <span id="year"></span> Sebastian Tilson
+      Views expressed here are my own and do not necessarily reflect those of
+    any current or former employer, including the Federal Reserve Bank of
+    Philadelphia or the Federal Reserve System.
     </footer>
   </div>
 
   <script>
     document.getElementById('year').textContent = new Date().getFullYear();
   </script>
-
-  <footer class="site">
-  <p style="margin: 0 0 8px;">
-    Views expressed here are my own and do not necessarily reflect those of
-    any current or former employer, including the Federal Reserve Bank of
-    Philadelphia or the Federal Reserve System.
-  </p>
-  &copy; <span id="year"></span> Sebastian Tilson
-</footer>
 
 </body>
 </html>

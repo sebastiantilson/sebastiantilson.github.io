@@ -223,11 +223,11 @@
           cited by <em>The Economist</em>, <em>The Wall Street Journal</em>, and <em>Bloomberg</em>
           among others. His paper <em>Owner-Occupancy Fraud and Mortgage Performance</em>,
           co-authored with Ronel Elul and Aaron Payne, was published in <em>Real Estate Economics</em>
-          in 2023 and grew out of his work at the Federal Reserve Bank of Philadelphia.
+          in 2023 and grew out of his work at the Federal Reserve Bank of Philadelphia. 
         </p>
         <p>
           He holds an MS in Applied Statistics from Villanova University and a BA in Mathematics
-          from Haverford College. He lives in the Philadelphia area.
+          from Haverford College. He lives with his family in the Philadelphia area.
         </p>
       </section>
 

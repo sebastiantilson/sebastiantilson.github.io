@@ -321,7 +321,7 @@
           <a href="mailto:Sebastian.Tilson@gmail.com">Sebastian.Tilson@gmail.com</a>.
         </p>
         <p>
-        <dt>I can also be reached on LinkedIn here:</dt>
+        <dt>I can also be reached on LinkedIn:</dt>
     <dd>
       <a href="https://www.linkedin.com/in/sebastiantilson/"
          target="_blank" rel="noopener">linkedin.com/in/sebastian-tilson</a>

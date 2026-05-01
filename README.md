@@ -320,6 +320,13 @@
           For media inquiries or research questions, email
           <a href="mailto:Sebastian.Tilson@gmail.com">Sebastian.Tilson@gmail.com</a>.
         </p>
+        <p>
+        <dt>LinkedIn</dt>
+    <dd>
+      <a href="https://www.linkedin.com/in/sebastiantilson/"
+         target="_blank" rel="noopener">linkedin.com/in/sebastian-tilson</a>
+    </dd>
+        </p>
       </section>
     </main>
 
